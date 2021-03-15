@@ -17,8 +17,8 @@ Used the Google Directions API to create a travel itinerary that shows the route
 
 ### Images for Reference
 
-![Vacation_Map](WeatherPy_vacation_map.png)
+!(WeatherPy_vacation_map.png)
 
-![Itinerary Travel_Map.png](WeatherPy_travel_map.png)
+!(WeatherPy_travel_map.png)
 
-![Travel_Map_Markers.png](WeatherPy_travel_map_markers.png)
+!(WeatherPy_travel_map_markers.png)
